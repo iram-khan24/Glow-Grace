@@ -6,7 +6,7 @@ The website provides information about salon services, team members, gallery, fr
 
 ## ✨ Features
 
-- 🏠 Home section
+- 🏠 Home section ----
 - 💇 Services section
 - 👩 About Us section
 - 👩‍🎨 Team section
